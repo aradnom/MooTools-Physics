@@ -1,0 +1,5 @@
+Serway, page 267, 2D collisions
+
+17.43
+9.86
+PPI = 91.28
